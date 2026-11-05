@@ -1,4 +1,4 @@
-﻿# ETON — Enterprise Sales Intelligence Platform
+# ETON — Enterprise Sales Intelligence Platform
 
 A consultative B2B telecom sales intelligence and automated pipeline platform built for Enterprise Account Managers.
 
@@ -46,10 +46,10 @@ ETON streamlines the end-to-end B2B telecom sales lifecycle across four integrat
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/eton.git
+git clone https://github.com/AvijeetAK/eton-platform.git
 
 # Navigate to project directory
-cd eton
+cd eton-platform
 
 # Install dependencies
 npm install
